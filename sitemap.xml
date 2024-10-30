@@ -1,51 +1,63 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
     <url>
-         <loc>https://steob92.github.io/mcgill-tutorial/</loc>
-         <lastmod>2024-10-28</lastmod>
+         <loc>https://afura-star.github.io/website-template/</loc>
+         <lastmod>2024-10-30</lastmod>
     </url>
     <url>
-         <loc>https://steob92.github.io/mcgill-tutorial/about/</loc>
-         <lastmod>2024-10-28</lastmod>
+         <loc>https://afura-star.github.io/website-template/about/</loc>
+         <lastmod>2024-10-30</lastmod>
     </url>
     <url>
-         <loc>https://steob92.github.io/mcgill-tutorial/about/cooking/</loc>
-         <lastmod>2024-10-28</lastmod>
+         <loc>https://afura-star.github.io/website-template/about/dancing/</loc>
+         <lastmod>2024-10-30</lastmod>
     </url>
     <url>
-         <loc>https://steob92.github.io/mcgill-tutorial/about/cycling/</loc>
-         <lastmod>2024-10-28</lastmod>
+         <loc>https://afura-star.github.io/website-template/about/gardening/</loc>
+         <lastmod>2024-10-30</lastmod>
     </url>
     <url>
-         <loc>https://steob92.github.io/mcgill-tutorial/about/fishing/</loc>
-         <lastmod>2024-10-28</lastmod>
+         <loc>https://afura-star.github.io/website-template/about/reading/</loc>
+         <lastmod>2024-10-30</lastmod>
     </url>
     <url>
-         <loc>https://steob92.github.io/mcgill-tutorial/projects/</loc>
-         <lastmod>2024-10-28</lastmod>
+         <loc>https://afura-star.github.io/website-template/cats/</loc>
+         <lastmod>2024-10-30</lastmod>
     </url>
     <url>
-         <loc>https://steob92.github.io/mcgill-tutorial/projects/data_project/</loc>
-         <lastmod>2024-10-28</lastmod>
+         <loc>https://afura-star.github.io/website-template/outreach/</loc>
+         <lastmod>2024-10-30</lastmod>
     </url>
     <url>
-         <loc>https://steob92.github.io/mcgill-tutorial/projects/python_project/python_project/</loc>
-         <lastmod>2024-10-28</lastmod>
+         <loc>https://afura-star.github.io/website-template/projects/</loc>
+         <lastmod>2024-10-30</lastmod>
     </url>
     <url>
-         <loc>https://steob92.github.io/mcgill-tutorial/reasearch/</loc>
-         <lastmod>2024-10-28</lastmod>
+         <loc>https://afura-star.github.io/website-template/projects/data_project/</loc>
+         <lastmod>2024-10-30</lastmod>
     </url>
     <url>
-         <loc>https://steob92.github.io/mcgill-tutorial/reasearch/all_publications/</loc>
-         <lastmod>2024-10-28</lastmod>
+         <loc>https://afura-star.github.io/website-template/projects/python_project/python_project/</loc>
+         <lastmod>2024-10-30</lastmod>
     </url>
     <url>
-         <loc>https://steob92.github.io/mcgill-tutorial/reasearch/highlights/awesome_paper/</loc>
-         <lastmod>2024-10-28</lastmod>
+         <loc>https://afura-star.github.io/website-template/publications/</loc>
+         <lastmod>2024-10-30</lastmod>
     </url>
     <url>
-         <loc>https://steob92.github.io/mcgill-tutorial/reasearch/highlights/large_mwl_paper/</loc>
-         <lastmod>2024-10-28</lastmod>
+         <loc>https://afura-star.github.io/website-template/publications/highlights/awesome_paper/</loc>
+         <lastmod>2024-10-30</lastmod>
+    </url>
+    <url>
+         <loc>https://afura-star.github.io/website-template/publications/highlights/large_mwl_paper/</loc>
+         <lastmod>2024-10-30</lastmod>
+    </url>
+    <url>
+         <loc>https://afura-star.github.io/website-template/reasearch/</loc>
+         <lastmod>2024-10-30</lastmod>
+    </url>
+    <url>
+         <loc>https://afura-star.github.io/website-template/reasearch/all_publications/</loc>
+         <lastmod>2024-10-30</lastmod>
     </url>
 </urlset>
