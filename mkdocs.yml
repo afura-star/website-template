@@ -1,34 +1,43 @@
 # Change to your own name
-site_name: My Research Page for Afura
+site_name: Afura's Research Page
 # Change to your own site
-site_url: https://steob92.github.io/mcgill-tutorial/ # must have the trailing slash
-site_author: Your Name (stephan.obrien@mcgill.ca)
-site_description: Research site for Your Name 
+site_url: https://afura-star.github.io/website-template/ # must have the trailing slash
+site_author: Afura Taylor (nunya@gmail.com)
+site_description: Research Site for Afura Taylor
 copyright: > # should remain a link to the original theme
-  &copy; 2023 Your Name <br>
+  &copy; 2024 Afura Taylor <br>
   <a href="https://github.com/vuquangtrong/mkdocs-material-blog">Blog Theme</a> /
   <a href="https://squidfunk.github.io/mkdocs-material/">Material for MkDocs</a>
 
-
+extra_css: [extra.css]
 
 theme:
+    favicon: favicon.png
+    logo: favicon.png
+    font:
+      text: Lora
+      code: Roboto Mono
     name: material
     palette:
       # Palette toggle for light mode
       - scheme: default
         # Color of the top bar
-        primary: deep purple
+        #primary: deep purple
+        primary: orange
         # Link highlight color
-        accent : orange
+        #accent : orange
+        accent: pink
         
         toggle:
-          icon: material/brightness-7 
+          icon: material/weather-night
           name: Switch to dark mode
 
       # Palette toggle for dark mode
       - scheme: slate
+        primary: green
+        accent: amber
         toggle:
-          icon: material/brightness-4
+          icon: material/weather-sunny
           name: Switch to light mode
 
     features:
@@ -58,18 +67,22 @@ nav:
   - Home: index.md
   - About Me: about/index.md
   - Research: reasearch/index.md
-  - Projects: projects/index.md
+  - Outreach: outreach/index.md
+  - Publications: publications/index.md
 
 # Extensions that we want to use
 markdown_extensions:
   - attr_list   # For adding attributes such as right/left align to images
   - md_in_html  # Using Figures
+  - footnotes
 
 
 
 # Additional plugins
 plugins:
     - search
+    - bibtex:
+        bib_file: "docs/reasearch/references.bib"
     # Using jupyter notebook  
     - mkdocs-jupyter:
           theme: default

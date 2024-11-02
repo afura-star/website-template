@@ -1,19 +1,18 @@
-# Welcome to My Research Page
+#Afura Taylor, Physics Graduate Student!
 
 
-![Coma cluster](./media/Crab_Nebula.jpg "Crab Nebula"){align="left": style="height:150;width:150px"}
-Welcome! My name is Afura Taylor and I'm a physics graduate student at McGill University. Outside of my physics research, which is detailed in the Research page, I enjoy dancing, cooking, and gardening! I'm from the United States of America, but I have been enjoying my time in Quebec so far. 
+![profile picture](media/profilepic.jpg "photo of me outside McGill's TSI!"){align="left": style="height:200;width:200px"}
+##Welcome! Bienvenue!
+Hello, good day! My name is Afura Taylor and I’m a first year physics graduate student at McGill University. Since I’m young, I have wanted to study space, so I am lucky to be a part of Katelin Schutz’s [group](https://katelinschutz.com/) here. Outside of physics, I like to dance and read. 
 
-Before coming to McGill, I was working as an instructor for Inspirit AI, an online machine learning camp. Before that, and a couple of jobs here and there, I was a physics undergraduate at MIT. There, I worked with Prof. Tracy Slatyer and Prof. Kerstin Perez at MIT and Prof. Vijay Varma at Caltech. 
+For my undergraduate degree, I studied at MIT, obtaining a physics and creative writing degree. While there, I was grateful to do research with Prof. Kerstin Perez and Prof. Tracy Slatyer. In addition, I participated in the LIGO REU, working at Caltech’s TAPIR group with Prof. Vijay Varma. You can learn more about my research [here](./reasearch/index.md)!
 
 
-If you're like to learn more about me, you can find an introduction to [my research](./reasearch/research_index.md), some info on some [recent projects](./projects/project_index.md) and some more info [about me](./about/about.md).
 
-## Here is an equation
+If you'd like to read about me, you can find some more info [about me](./about/index.md).
 
-$$ x = \frac{-b \pm \sqrt{b^2 -4ac}}{2a}$$
 
-## Here is the Crab Nebula
+## Perspective.... 
 
-[![Crab Nebula](./media/Crab_Nebula.jpg "Crab Nebula")](https://en.wikipedia.org/wiki/Crab_Nebula#)
-I got this image from [Wikipedia](https://en.wikipedia.org/wiki/Crab_Nebula).
+[![how is dark matter](./media/darkmattercartoon.jpg "Dark Matter")](https://www.newscientist.com/article/2267304-tom-gauld-has-a-heart-to-heart-with-dark-matter/#)
+This cartoon was created by Tom Gauld for [New Scientist](https://www.newscientist.com/article/2267304-tom-gauld-has-a-heart-to-heart-with-dark-matter/).
